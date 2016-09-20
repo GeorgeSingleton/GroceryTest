@@ -1,0 +1,9 @@
+[{
+	"name": "apples",
+	"baskets": [10, 20, 30],
+	"unit_cost": 0.26
+}, {
+	"name": "bananas",
+	"baskets": [5, 20, 10, 10],
+	"unit_cost": 0.20
+}]
